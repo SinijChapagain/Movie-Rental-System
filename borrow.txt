@@ -1,0 +1,27 @@
+Name: sinij
+Movies Name 								 Price
+
+***********************************************************************
+Total										0Name: sasas
+Movies Name 								 Price
+
+Pulp Fiction							30
+Lord Of The Rings							10
+***********************************************************************
+Total										40.0Name: sinij
+Movies Name 								 Price
+
+Pulp Fiction							30
+Lord Of The Rings							10
+***********************************************************************
+Total										40.0Name: Sinij
+Movies Name 								 Price
+
+Pulp Fiction							30
+Lord Of The Rings							10
+***********************************************************************
+Total										40.0Name: sinij
+Movies Name 								 Price
+
+***********************************************************************
+Total										0
